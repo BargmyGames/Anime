@@ -1,0 +1,34 @@
+﻿{
+	"name": "Anime",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "217",
+	"used-plugins": [
+		"Browser",
+		"Button",
+		"Function",
+		"Keyboard",
+		"List",
+		"Mouse",
+		"NodeWebkit",
+		"Sprite",
+		"Text",
+		"TextBox",
+		"TiledBg",
+		"Touch",
+		"UserMedia",
+		"video"
+	],
+	"used-behaviors": [
+		"Anchor",
+		"DragnDrop",
+		"Pin"
+	]
+}
